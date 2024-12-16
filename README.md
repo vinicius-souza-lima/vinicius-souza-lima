@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olé, sou o Vinícius Lima 👋
 
 <!--
 **vinicius-souza-lima/vinicius-souza-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 ![Vinicius' GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicius-souza-lima)](https://github.com/vinicius-souza-lima/github-readme-stats)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-souza-lima&layout=compact)
+Sou formado em Engenharia Civil pelo ITA e atualmente estou fazendo minha pós-graduação em Ciência de Dados e Analytics pela PUC-Rio
+
+## Contato
+
+ - [Linkedin](https://www.linkedin.com/in/vinicius-de-souza-lima/)
+ - [Kaggle](https://www.kaggle.com/vinciusdesouzalima) 
+ - [Github](https://github.com/vinicius-souza-lima)
